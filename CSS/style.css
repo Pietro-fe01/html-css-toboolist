@@ -112,10 +112,25 @@ main .do-name{
 }
 
 main .tag{
-    background-color: #45ABEA;
     color: white;
     border-radius: 10px;
-    padding: 7px;
-    font-size: 10px;
+    padding: 4px 8px;
+    font-size: 12px;
     margin-left: 10px;
+}
+
+main .editorial{
+    background-color: #45ABEA;
+}
+
+main #goals{
+    background-color: #9C72E4;
+}
+
+main #recruit{
+    background-color: #64C0A9;
+}
+
+main #mobile{
+    background-color: #F29E33;
 }
