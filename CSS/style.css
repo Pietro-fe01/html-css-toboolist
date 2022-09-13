@@ -73,7 +73,6 @@ main .button-section{
 main .section-two{
     margin-top: 5px;
     padding-top: 35px;
-    height: 500px;
 }
 
 main .downwards-triangle{
@@ -133,4 +132,12 @@ main #recruit{
 
 main #mobile{
     background-color: #F29E33;
+}
+
+main #web-site{
+    background-color: #D863A1;
+}
+
+main #sales{
+    background-color: #B0C926;
 }
