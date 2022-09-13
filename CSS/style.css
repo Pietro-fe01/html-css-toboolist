@@ -37,15 +37,19 @@ header .logo{
 main .container{
     background-color: white;
     max-width: 800px;
-    height: 60px;
     margin: auto;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
     padding-left: 55px;
 }
 
+main .section-one{
+    height: 50px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
 main .button{
-    margin-top: 16px;
+    margin-top: 12px;
     padding: 5px;
     font-size: 13px;
     border-radius: 5px;
@@ -61,4 +65,14 @@ main .button-task{
 main .button-section{
     background-color: white;
     width: 100px;
+}
+
+/*---------------------
+    Main Seconda sezione
+----------------------*/
+main .section-two{
+    margin-top: 5px;
+    padding-top: 30px;
+    height: 500px;
+
 }
