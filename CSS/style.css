@@ -72,7 +72,50 @@ main .button-section{
 ----------------------*/
 main .section-two{
     margin-top: 5px;
-    padding-top: 30px;
+    padding-top: 35px;
     height: 500px;
+}
 
+main .downwards-triangle{
+    font-size: 30px;
+    position: relative;
+    top: 15px;
+}
+
+main .to-do-title{
+    display: inline-block;
+}
+
+main .circles{
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+main .check{
+    color: green;
+    border: 1px solid green;
+}
+
+main .cross{
+    color: red;
+    border: 1px solid red;
+}
+
+main .do-name{
+    position: relative;
+    top: -19px;
+    left: 28px;
+}
+
+main .tag{
+    background-color: #45ABEA;
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
+    font-size: 10px;
+    margin-left: 10px;
 }
