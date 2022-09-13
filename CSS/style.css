@@ -18,6 +18,7 @@ header{
     height: 70px;
     background-color: white;
     padding: 10px 20px;
+    margin-bottom: 40px;
 }
 
 header h1{
@@ -27,4 +28,37 @@ header h1{
 
 header .logo{
     vertical-align: middle;
+}
+
+/*---------------------
+    Main Prima sezione
+----------------------*/
+
+main .container{
+    background-color: white;
+    max-width: 800px;
+    height: 60px;
+    margin: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding-left: 55px;
+}
+
+main .button{
+    margin-top: 16px;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    color: lightgray;
+}
+
+main .button-task{
+    background-color: #45ABEA;
+    width: 80px;
+}
+
+main .button-section{
+    background-color: white;
+    width: 100px;
 }
