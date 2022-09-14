@@ -18,7 +18,7 @@ header{
     height: 70px;
     background-color: white;
     padding: 10px 20px;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
 }
 
 header h1{
@@ -71,8 +71,8 @@ main .button-section{
     Main Seconda sezione
 ----------------------*/
 main .section-two{
-    margin-top: 5px;
-    padding-top: 35px;
+    margin-top: 3px;
+    padding-top: 20px;
 }
 
 main .downwards-triangle{
